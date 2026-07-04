@@ -57,9 +57,9 @@ const featuredProducts = [
   },
   {
     name: "Baby Cot",
-    price: 18000,
+    price: 8500,
     description: "Safe and sturdy baby cot",
-    imageUrl: "https://www.babycotkenya.com/uploads/products/4FpXlohinTCE0D9stqGyi1ispN8vXQHagrUMo9l9.webp"
+    imageUrl: "/baby cot hero.webp"
   },
   {
     name: "Grooming Kit",
@@ -85,7 +85,7 @@ const categories = [
   {
     title: "Shoes",
     route: "/category/clothing/baby-shoes",
-    image: "https://www.nillababyshop.com/images/baby-boy-crib-shoes-with-soft-sole-pre-walkers-2.jpg"
+    image: "/baby shoes homepage.webp"
   },
   {
     title: "Baby Care",
