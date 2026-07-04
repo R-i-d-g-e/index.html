@@ -6,9 +6,9 @@ const categories = [
     name: "Baby Care",
     subs: [
       { name: "Bathing & Laundry", desc: "Baby Care, Baby Bath", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0mmhg-o612IzGkOlaD-Tcowm_FNGZASsmR_0AXKZ_Qg&s=10" },
-      { name: "Diapers", desc: "Leak-Free Baby Care", image: "/public/diaper bags.jpeg" },
-      { name: "Grooming Kits", desc: "Baby Healthcare Essentials", image: "/public/groaming kit.webp" },
-      { name: "Potty Training", desc: "Supportive & Easy", image: "/public/potty.webp" },
+      { name: "Diapers", desc: "Leak-Free Baby Care", image: "/diaper bags.jpeg" },
+      { name: "Grooming Kits", desc: "Baby Healthcare Essentials", image: "/groaming kit.webp" },
+      { name: "Potty Training", desc: "Supportive & Easy", image: "/potty.webp" },
 
     ],
   },
