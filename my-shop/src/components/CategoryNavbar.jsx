@@ -35,8 +35,7 @@ const categories = [
 
       { name: "Bottles", desc: "Anti-Colic & Safe", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS62w_0FISFc7LgMl5Bxh7PiagPOghq1hHvgBw5qUD7Q&s=10" },
       { name: "Breast Pumps", desc: "Comfortable & Efficient", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6gYTW2WJepsovBDL09UIJXdT_BWMjlby2QEbxRdVTMg&s=10" },
-      { name: "Pacifiers", desc: "For baby", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNFyWq8HwNitx8WAbhGpBq2V7LckocGIm1fw1W8eqkIA&s=10" },
-      { name: "Kids furniture", desc: "Safe Mealtime Seating", image: "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/85/8761323/1.jpg?4527" },
+      { name: "Pacifiers", desc: "Safe Mealtime Seating", image: "/public/Pacifiers.jpeg" },
 
      
     ],
