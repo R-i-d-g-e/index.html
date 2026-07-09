@@ -23,7 +23,7 @@ const categories = [
 
     { name: "Custom Designs", desc: "Personalized baby outfits", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0gt2REcqr463HT3u7PTGEc-8D2NB3mpqXtmkgSEfYJQ&s=10" },
 
-    { name: "Baby Bibs", desc: "Cute feeding bibs", image: "/public/baby bids.webp" },
+    { name: "Baby Bibs", desc: "Cute feeding bibs", image: "/baby bibs.avif" },
 
 
 
@@ -35,7 +35,7 @@ const categories = [
 
       { name: "Bottles", desc: "Anti-Colic & Safe", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS62w_0FISFc7LgMl5Bxh7PiagPOghq1hHvgBw5qUD7Q&s=10" },
       { name: "Breast Pumps", desc: "Comfortable & Efficient", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6gYTW2WJepsovBDL09UIJXdT_BWMjlby2QEbxRdVTMg&s=10" },
-      { name: "Pacifiers", desc: "Safe Mealtime Seating", image: "/public/Pacifiers.jpeg" },
+      { name: "Pacifiers", desc: "Safe Mealtime Seating", image: "/pacifier navbar.webp" },
 
      
     ],
