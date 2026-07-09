@@ -13,55 +13,52 @@ const products = [
   { id: "bc5",  name: "Gentle Baby Shampoo",            category: "baby-care", subcategory: "bathing-and-laundry", price: 380,  image: "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/98/9707523/1.jpg?8527" },
   { id: "bc6",  name: "Baby Body Wash",                 category: "baby-care", subcategory: "bathing-and-laundry", price: 350,  image: "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/26/9042723/1.jpg?2309" },
   { id: "bc7",  name: "Baby Lotion 200ml",              category: "baby-care", subcategory: "bathing-and-laundry", price: 420,  image: "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/11/0125061/1.jpg?1297" },
-  { id: "bc9",  name: "Baby Sponge & Brush Set",        category: "baby-care", subcategory: "bathing-and-laundry", price: 320,  image: "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/07/0256582/1.jpg?1173" },
+  { id: "bc9",  name: "Baby Sponge & Brush Set",        category: "baby-care", subcategory: "bathing-and-laundry", price: 320,  image: "/Baby Sponge & Brushs et.jpeg" },
 
   { id: "bc11", name: "Newborn Diapers Size 1",         category: "baby-care", subcategory: "diapers", price: 1680, image: "https://th.bing.com/th/id/OIP.0t4LZ1dQHOPI-xatlV2L_QHaHa?w=199&h=199&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3" },
   { id: "bc12", name: "Pull-Up Diapers Size 3",         category: "baby-care", subcategory: "diapers", price: 4120, image: "/Pull-Up Diapers Size 3.jpeg" },
-  { id: "bc19", name: "Diaper Bag Backpack",            category: "baby-care", subcategory: "diapers", price: 2800, image: "https://th.bing.com/th/id/OIP.82fPwi-jIsQIZL4ZSnGQAAHaHa?w=158&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3" },
-  { id: "bc20", name: "5 Piece Set Washable Bby Liners",           category: "baby-care", subcategory: "diapers", price: 650,  image: "https://th.bing.com/th/id/OIP.bjE7K8UVYpNZcEV8dTILlwAAAA?w=189&h=192&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3" },
+  { id: "bc19", name: "Diaper Bag Backpack",            category: "baby-care", subcategory: "diapers", price: 2800, image: "/Diaper Bag Backpack.jpeg" },
+  { id: "bc20", name: "5 Piece Set Washable Bby Liners",           category: "baby-care", subcategory: "diapers", price: 650,  image: "/5 Piece Set Washable Bby Liners.jpeg" },
 
-  { id: "bc21", name: "Large Bby Care Grooming Kit",            category: "baby-care", subcategory: "grooming-kits", price: 1200,  image: "https://th.bing.com/th/id/OIP.A9FxA3FyQFDknHSDfK2k_QHaHa?w=192&h=192&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3" },
-  { id: "bc22", name: "Small Baby Care Grooming Kit",         category: "baby-care", subcategory: "grooming-kits", price: 800,  image: "https://th.bing.com/th/id/OIP.0HrcrEv4wvisHGelYUvbzwHaHI?w=182&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3" },
+  { id: "bc21", name: "Large Baby Care Grooming Kit",            category: "baby-care", subcategory: "grooming-kits", price: 1200,  image: "/Large Baby Care Grooming Kit.jpeg" },
+  { id: "bc22", name: "Small Baby Care Grooming Kit",         category: "baby-care", subcategory: "grooming-kits", price: 800,  image: "/Small Baby Care Grooming Kit.jpeg" },
   
 
   { id: "bc31", name: "Baby Potty Training Chair",      category: "baby-care", subcategory: "potty-training", price: 3500, image: "/Baby Potty Training Chair.jpg" },
-  { id: "bc32", name: " Potty Seat",            category: "baby-care", subcategory: "potty-training", price: 2790,  image: "/potty seat.jpg" },
-  { id: "bc33", name: "Potty Training Seat with Lid",    category: "baby-care", subcategory: "potty-training", price: 400,  image: "/Potty Training Seat with Lid.jpg" },
-  { id: "bc36", name: "Portable Travel Potty",          category: "baby-care", subcategory: "potty-training", price: 2899,  image: "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/08/3659123/1.jpg?1053" },
+  { id: "bc32", name: " Potty Seat",            category: "baby-care", subcategory: "potty-training", price: 2790,  image: "/Potty Seat.jpeg" },
+  { id: "bc33", name: "Potty Training Seat with Lid",    category: "baby-care", subcategory: "potty-training", price: 400,  image: "/Potty Training Seat with Lid.jpeg" },
  
 
   { id: "bc41", name: "Ultra Soft Washcloths 4-Pack",   category: "baby-care", subcategory: "bathing-and-laundry", price: 960,  image: "/Ultra Soft Washcloths 4-Pack.jpeg" },
-  { id: "bc42", name: "6 Pcs Set Baby Washcloth",       category: "baby-care", subcategory: "bathing-and-laundry", price: 320,  image: "/6 Pcs Set Bbaby Washcloth.jpeg" },
+  { id: "bc42", name: "6 Pcs Set Baby Washcloth",       category: "baby-care", subcategory: "bathing-and-laundry", price: 320,  image: "/6 Pcs Set Baby Washcloth.jpeg" },
   { id: "bc43", name: "Baby WashCloth 4 Piece",          category: "baby-care", subcategory: "bathing-and-laundry", price: 400,  image: "/Baby WashCloth 4 Piece.jpeg" },
   { id: "bc47", name: "Hooded Baby Washcloth",    category: "baby-care", subcategory: "bathing-and-laundry", price: 960,  image: "/Hooded Baby Washcloth.jpeg" },
-  { id: "bc48", name: "Hooded Coral Towel",        category: "baby-care", subcategory: "bathing-and-laundry", price: 960,  image: "/Hooded Coral Towel.jpeg" },
   { id: "bc49", name: "Soft Baby Towel",        category: "baby-care", subcategory: "bathing-and-laundry", price: 560,  image: "/Soft Baby Towel.jpeg" },
   { id: "bc50", name: "Infant Cotton Cartoon Animal Print",        category: "baby-care", subcategory: "bathing-and-laundry", price: 560,  image: "/Infant Cotton Cartoon Animal Print.jpeg" },
-  { id: "bc45", name: "8 Pcs Set WashCloths",      category: "baby-care", subcategory: "bathing-and-laundry", price: 320,  image: "/8pc set washcloths.jpeg" },
+  { id: "bc45", name: "8 Pcs Set WashCloths",      category: "baby-care", subcategory: "bathing-and-laundry", price: 320,  image: "/8 Pcs Set WashCloths.jpeg" },
 
   // ═══════════════════════════════════════════════════
   // CLOTHING
   // ═══════════════════════════════════════════════════
   
   { id: "cl2",  name: "Long Sleeve Bodysuit 5-Pack",    category: "clothing", subcategory: "bodysuits", price: 1200,  image: "/Long Sleeve Bodysuit 5-Pack.jpeg" },
-  { id: "cl3",  name: "5 Pck Newborn Baby Girls Bodysuit",           category: "clothing", subcategory: "bodysuits", price: 1200,  image: "/5 Pck Newborn Bbay Girls Bodysuit.jpeg" },
+  { id: "cl3",  name: "5 Pck Newborn Baby Girls Bodysuit",           category: "clothing", subcategory: "bodysuits", price: 1200,  image: "/5 Pck Newborn Baby Girls Bodysuit.jpeg" },
   { id: "cl4",  name: "5 Pieces Multicolored Cotton Bodysuit",        category: "clothing", subcategory: "bodysuits", price: 1200,  image:"/5 Pieces Multicolored Cotton Bodysuit.jpeg" },
   { id: "cl5",  name: "Striped Baby Bodysuit",          category: "clothing", subcategory: "bodysuits", price: 1200,  image: "/Striped Baby Bodysuit.jpeg" },
   { id: "cl6",  name: "Adorable Baby Onesie Vest",          category: "clothing", subcategory: "bodysuits", price: 450,  image: "/Adorable Baby Onesie Vest.jpeg" },
-  { id: "cl7",  name: "Baby Boys One-piece Soft Cotton ",        category: "clothing", subcategory: "bodysuits", price: 450,  image: "/Baby Boys One-piece Soft Cotton.jpeg" },
-  { id: "cl8",  name: "Baby Romper Buttoned Hooded Overall One Piece BodySuit",               category: "clothing", subcategory: "bodysuits", price: 960,  image: "/Baby Romper Buttoned Hooded Overall One Piece BodySuit.jpeg" },
-  { id: "cl9",  name: "Branded Newborn Baby Onesies",   category: "clothing", subcategory: "bodysuits", price: 440,  image: "/Branded Newborn Baby Onesies.jpeg" },
+  { id: "cl7",  name: "Baby Boys One-piece Soft Cotton ",        category: "clothing", subcategory: "bodysuits", price: 450,  image: "/Baby Boys One-piece Soft Cotton.png" },
+  { id: "cl8",  name: "Baby Romper Buttoned Hooded Overall One Piece BodySuit",               category: "clothing", subcategory: "bodysuits", price: 960,  image: "/Baby Romper Buttoned Hooded Overall One Piece BodySuit.png" },
+  { id: "cl9",  name: "Branded Newborn Baby Onesies",   category: "clothing", subcategory: "bodysuits", price: 440,  image: "/Branded Newborn Baby Onesies.png" },
 
-  { id: "cl11", name: "3-Pack Baby Bibs",            category: "clothing", subcategory: "baby-bibs", price: 600,  image: "/3-Pack Baby Bibs.jpeg" },
-  { id: "cl12", name: "Animal Pattern Silicone Bib",        category: "clothing", subcategory: "baby-bibs", price: 400,  image: "/Animal Pattern Silicone Bib.jpeg" },
-  { id: "cl13", name: "Burp Clothes",     category: "clothing", subcategory: "baby-bibs", price: 480,  image:"/Burp Clothes.webp" },
-  { id: "cl15", name: "Newborn Baby Bib",              category: "clothing", subcategory: "baby-bibs", price: 80,  image: "/Newborn Baby Bib.jpeg" },
+  { id: "cl11", name: "3-Pack Baby Bibs",            category: "clothing", subcategory: "baby-bibs", price: 600,  image: "/3-Pack Baby Bibs.png" },
+  { id: "cl12", name: "Animal Pattern Silicone Bib",        category: "clothing", subcategory: "baby-bibs", price: 400,  image: "/Animal Pattern Silicone Bib.png" },
+  { id: "cl13", name: "Burp Clothes",     category: "clothing", subcategory: "baby-bibs", price: 480,  image:"/Burp Clothes.png" },
+  { id: "cl15", name: "Newborn Baby Bib",              category: "clothing", subcategory: "baby-bibs", price: 80,  image: "/Newborn Baby Bib.png" },
  
-  { id: "cl16", name: "Unisex Baby Cotton Drooler Bib",                   category: "clothing", subcategory: "baby-bibs", price: 80,  image:"/Unisex Baby Cotton Drooler Bib.jpeg" },
-  { id: "cl24", name: "Baby Boy Crib Shoes with Soft Sole",            category: "clothing", subcategory: "baby-shoes", price: 640,  image: "/Baby Boy Crib Shoes with Soft Sole.jpeg" },
-  { id: "cl25", name: "Baby Girl Crib Shoes with Soft Sole",     category: "clothing", subcategory: "baby-shoes", price: 640,  image: "/Baby Girl Crib Shoes with Soft Sole.jpeg" },
+  { id: "cl24", name: "Baby Boy Crib Shoes with Soft Sole",            category: "clothing", subcategory: "baby-shoes", price: 640,  image: "/Baby Boy Crib Shoes with Soft Sole.png" },
+  { id: "cl25", name: "Baby Girl Crib Shoes with Soft Sole",     category: "clothing", subcategory: "baby-shoes", price: 640,  image: "/Baby Girl Crib Shoes with Soft Sole.png" },
 
-  { id: "cl31", name: "I Love Mom & Dad Pants Set",     category: "clothing", subcategory: "custom-designs", price: 1200,  image: "/i love mom and dad set.jpeg" },
+  { id: "cl31", name: "I Love Mom & Dad Pants Set",     category: "clothing", subcategory: "custom-designs", price: 1200,  image: "/I Love Mom & Dad Pants Set.png" },
  
   // ═══════════════════════════════════════════════════
   // FEEDING
@@ -89,7 +86,7 @@ const products = [
 
 // BABY COTS
 { id: "nu1",  name: "Wooden Baby Cot with Net",                                                category: "nursery", subcategory: "baby-cots", price: 26500, image: "/Wooden Baby with net.jpg" },
-{ id: "nu2",  name: "Cot Sheets",                                                              category: "nursery", subcategory: "baby-cots", price: 500,  image: "/Cot Sheets.jpeg" },
+{ id: "nu2",  name: "Cot Sheets",                                                              category: "nursery", subcategory: "baby-cots", price: 500,  image: "/cot sheets.png" },
 { id: "nu4",  name: "Multi-Function Infant Playpen",                                           category: "nursery", subcategory: "baby-cots", price: 15000,  image: "/Multi-Function Infant Playpen.jpg" },
 { id: "nu5",  name: "Multipurpose Baby Playpen Portable Baby Crib",                            category: "nursery", subcategory: "baby-cots", price: 20000, image: "/Multipurpose Baby Playpen Portable Baby Crib.jpg" },
 { id: "nu7",  name: "Cot Bumper",                                                              category: "nursery", subcategory: "baby-cots", price: 3000,  image: "/Cot Bumper.jpeg" },
