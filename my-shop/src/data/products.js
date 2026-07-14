@@ -95,12 +95,11 @@ const products = [
 // NESTS & BASSINETS
 { id: "nu11", name: "3-in-1 Playpen Bassinet",                      category: "nursery", subcategory: "nests-and-bassinets", price: 27000, image: "/3-in-1 Playpen Bassinet.jpg" },
 { id: "nu12", name: "Baby Bassinet Cradle with Mosquito Net",        category: "nursery", subcategory: "nests-and-bassinets", price: 40000, image: "/Baby Bassinet Cradle with Mosquito Net.jpg" },
-{ id: "nu13", name: "Baby Co-Sleeper",                              category: "nursery", subcategory: "nests-and-bassinets", price: 3000, image: "/Baby Co-Sleeper.jpg" },
-{ id: "nu14", name: "Baby Nest with Standard Safety",               category: "nursery", subcategory: "nests-and-bassinets", price: 1300,  image: "/Baby Nest with Standard Safety.jpg" },
-{ id: "nu15", name: "Foldable Baby Bassinet with Net and Wheels",   category: "nursery", subcategory: "nests-and-bassinets", price: 6400,  image: "/Foldable Baby Bassinet with Net and Wheels.jpg" },
+{ id: "nu13", name: "Baby Co-Sleeper",                              category: "nursery", subcategory: "nests-and-bassinets", price: 3000, image: "/Baby Co-Sleeper.jpeg" },
+{ id: "nu14", name: "Baby Nest with Standard Safety",               category: "nursery", subcategory: "nests-and-bassinets", price: 1300,  image: "/Baby Nest with Standard Safety.jpeg" },
+{ id: "nu15", name: "Foldable Baby Bassinet with Net and Wheels",   category: "nursery", subcategory: "nests-and-bassinets", price: 6400,  image: "/Foldable Baby Bassinet with Net and Wheels.jpeg" },
 { id: "nu16", name: "Foldable Baby Sleeping Nest Crib",             category: "nursery", subcategory: "nests-and-bassinets", price: 3600,  image: "/Foldable Baby Sleeping Nest Crib.jpg" },
-{ id: "nu17", name: "Luxury Velvet Baby Bassinet Stroller",         category: "nursery", subcategory: "nests-and-bassinets", price: 50000, image: "/Luxury Velvet Baby Bassinet Stroller.jpg" },
-{ id: "nu18", name: "Portable Baby Co-Sleeper with Mosquito Net",   category: "nursery", subcategory: "nests-and-bassinets", price: 3000,  image: "/Portable Baby Co-Sleeper with Mosquito Net.jpg" },
+{ id: "nu17", name: "Luxury Velvet Baby Bassinet Stroller",         category: "nursery", subcategory: "nests-and-bassinets", price: 50000, image: "/Luxury Velvet Baby Bassinet Stroller.jpeg" },
 
 // PILLOWS
 { id: "nu21", name: "Comfy Travel C-Shaped Neck Support Pillow",    category: "nursery", subcategory: "pillows", price: 800,  image: "/Comfy Travel C-Shaped Neck Support Pillow.jpg" },
@@ -123,20 +122,20 @@ const products = [
   // ═══════════════════════════════════════════════════
   // TRAVEL
   // ═══════════════════════════════════════════════════
-  { id: "tr1",  name: "Portable Newborn Stroller",  category: "travel", subcategory: "strollers", price: 12800, image: "https://th.bing.com/th/id/OIP.tac4s8gowi355R3hdFZ2owHaKG?w=130&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3" },
+  { id: "tr1",  name: "Portable Newborn Stroller",  category: "travel", subcategory: "strollers", price: 12800, image: "/Portable Newborn Stroller.jpeg" },
  
-  { id: "tr13", name: "Rotating and Reclining Newborn Isofix Car Seat",               category: "travel", subcategory: "car-seats", price: 17600,  image: "https://th.bing.com/th/id/OIP.Y--V7syXPW7A9w9WNwOm6wHaHa?w=198&h=198&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3" },
-  { id: "tr16", name: "Infant Car Seat Carrier with Canopy",          category: "travel", subcategory: "car-seats", price: 7200,   image: "https://th.bing.com/th/id/OIP.u723lxnt4ygH0Ao8hHK02QHaLH?w=124&h=186&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3" },
+  { id: "tr13", name: "Rotating and Reclining Newborn Isofix Car Seat",               category: "travel", subcategory: "car-seats", price: 17600,  image: "/Rotating and Reclining Newborn Isofix Car Seat.jpeg" },
+  { id: "tr16", name: "Infant Car Seat Carrier with Canopy",          category: "travel", subcategory: "car-seats", price: 7200,   image: "/Infant Car Seat Carrier with Canopy.jpeg" },
  
-  { id: "tr21", name: " Baby Carrier with Breathable Hip Seat",         category: "travel", subcategory: "baby-carriers", price: 2800, image: "/Baby Carrier with Breathable Hip Seat.jpg" },
-  { id: "tr22", name: "Wrap Baby Carrier",              category: "travel", subcategory: "baby-carriers", price: 1500, image: "/Wrap Baby Carrier.jpg" },
-  { id: "tr24", name: "Newborn Chicco Carrier",             category: "travel", subcategory: "baby-carriers", price: 3000, image:"/Newborn Chicco Carrier.jpg" },
-  { id: "tr25", name: "Versatile Cozy Infant Baby Carrier",        category: "travel", subcategory: "baby-carriers", price: 1200, image: "/Versatile Cozy Infant Baby Carrier.jpg" },
+  { id: "tr21", name: " Baby Carrier with Breathable Hip Seat",         category: "travel", subcategory: "baby-carriers", price: 2800, image: "/Baby Carrier with Breathable Hip Seat.jpeg" },
+  { id: "tr22", name: "Wrap Baby Carrier",              category: "travel", subcategory: "baby-carriers", price: 1500, image: "/Wrap Baby Carrier.jpeg" },
+  { id: "tr24", name: "Newborn Chicco Carrier",             category: "travel", subcategory: "baby-carriers", price: 3000, image:"/Newborn Chicco Carrier.jpeg" },
+  { id: "tr25", name: "Versatile Cozy Infant Baby Carrier",        category: "travel", subcategory: "baby-carriers", price: 1200, image: "my-shop/public/Versatile Cozy Infant Baby Carrier.jpeg" },
  
-  { id: "tr31", name: "3 in 1 Stylish Diaper Bag",      category: "travel", subcategory: "diaper-bags", price: 3200, image: "/3 in 1 diaper bag.jpeg" },
+  { id: "tr31", name: "3 in 1 Stylish Diaper Bag",      category: "travel", subcategory: "diaper-bags", price: 3200, image: "/3 in 1 Stylish Diaper Bag.jpeg" },
   { id: "tr15", name: "2 in 1 Diaper Bag",          category: "travel", subcategory: "diaper-bags", price: 2200, image: "/2 in 1 diaper bag.jpeg" },
-  { id: "tr33", name: "5 in 1 Diaper Bag",        category: "travel", subcategory: "diaper-bags", price: 2200, image: "/5 in 1 Diaper Bag.jpg" },
-  { id: "tr34", name: "5pc Set Trendy Mummy Maternity Bag",             category: "travel", subcategory: "diaper-bags", price: 2260,  image: "/5pc Set Trendy Mummy Maternity Bag.png" },
+  { id: "tr33", name: "5 in 1 Diaper Bag",        category: "travel", subcategory: "diaper-bags", price: 2200, image: "/5 in 1 Diaper Bag.jpeg" },
+  { id: "tr34", name: "5pc Set Trendy Mummy Maternity Bag",             category: "travel", subcategory: "diaper-bags", price: 2260,  image: "/5pc Set Trendy Mummy Maternity Bag.jpeg" },
  
   // ═══════════════════════════════════════════════════
   // MOTHER CARE
@@ -149,12 +148,12 @@ const products = [
   { id: "mc13", name: "Padded Nursing Bra",            category: "mother-care", subcategory: "nursing-bras", price: 1000, image: "/padded bras.jpeg" },
  
   { id: "mc21", name: "Dafi Maternity Pads",             category: "mother-care", subcategory: "dafi-maternity-pads", price:1200,  image: "/Dafi Maternity Pads.png" },
-  { id: "mc22", name: "Sitz Bath Basin",             category: "mother-care", subcategory: "dafi-maternity-pads", price: 1500,  image: "/Sitz Bath Basin.jpg" },
+  { id: "mc22", name: "Sitz Bath Basin",             category: "mother-care", subcategory: "dafi-maternity-pads", price: 1500,  image: "/Sitz Bath Basin.jpeg" },
   { id: "mc23", name: "Set of Pregnancy Pants",         category: "mother-care", subcategory: "dafi-maternity-pads", price: 300,  image: "/set of pregnancy pants.jpeg" },
   
   
-  { id: "mc31", name: "African Swahili Maxi Dera",       category: "mother-care", subcategory: "african-swahili-maxi-dera", price: 700, image: "/African Swahili Maxi Dera.jpg" },
-  { id: "mc32", name: "Women's Maternity Jeans",     category: "mother-care", subcategory: "african-swahili-maxi-dera", price: 2000, image: "/Women's Maternity Jeans.jpg" },
+  { id: "mc31", name: "African Swahili Maxi Dera",       category: "mother-care", subcategory: "african-swahili-maxi-dera", price: 700, image: "/African Swahili Maxi Dera.jpeg" },
+  { id: "mc32", name: "Women's Maternity Jeans",     category: "mother-care", subcategory: "african-swahili-maxi-dera", price: 2000, image: "/Women's Maternity Jeans.jpeg" },
   { id: "mc33", name: "Anti-Burst Yoga Ball for Exercise",          category: "mother-care", subcategory: "african-swahili-maxi-dera", price: 2500, image: "/Anti burst yoga ball.jpg" },
  
   // ═══════════════════════════════════════════════════

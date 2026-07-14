@@ -29,19 +29,19 @@ const featuredProducts = [
     name: "Swaddle Blanket",
     price: 800,
     description: "Muslin soft swaddle blanket",
-    imageUrl: "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/81/8640623/1.jpg?1432"
+    imageUrl: "/swaddle balnket.jpg"
   },
   {
     name: "Baby Sneakers",
     price: 1100,
     description: "Soft sole first walker shoes",
-    imageUrl: "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/92/4432352/1.jpg?6772"
+    imageUrl: "/baby sneakers.png"
   },
   {
     name: "High Chair",
-    price: 7500,
+    price: 25000,
     description: "Adjustable safe high chair",
-    imageUrl: "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/51/5754623/1.jpg?2870"
+    imageUrl: "/high chair.jpeg"
   },
   {
     name: "Baby Lotion",
@@ -59,7 +59,7 @@ const featuredProducts = [
     name: "Baby Cot",
     price: 8500,
     description: "Safe and sturdy baby cot",
-    imageUrl: "/baby cot hero.webp"
+    imageUrl: "/baby cots.webp"
   },
   {
     name: "Grooming Kit",
@@ -71,7 +71,7 @@ const featuredProducts = [
     name: "Soft Baby Blanket",
     price: 1500,
     description: "Warm and soft blanket for sleep",
-    imageUrl: "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/65/7533682/1.jpg?2601"
+    imageUrl: "/soft baby blanket.jpg"
   },
 ];
 
